@@ -1,0 +1,73 @@
+body{
+  background: #f1e4e4;
+}
+.ab{
+    float: right;
+    margin: 10px;
+    position: relative;
+    right: 200px;
+}
+.wo{
+    float: right;
+     margin: 10px;
+}
+.no{
+    float: right;
+     margin: 10px;
+}
+
+#container{
+
+    background: #d7f7f5;
+    text-align: center;
+    margin: 0px;
+    padding-top: 50px;
+    
+}
+.my{
+    width: 100px;
+    border-radius: 100%;
+    position: relative;
+    right: 335px;
+    
+}
+hr{
+   border-style: dotted none none;
+    border-width: 5px;
+    width: 20%;
+    border-color: brown;
+}
+.my{
+    position: relative;
+    top: 110px;
+}
+.hi{
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+#ny{
+    position: relative;
+    right: 200px
+}
+#ay{
+    margin: 20px 20px 20px 400px;
+     
+}
+.but{
+    height: 50px;
+    width: 200px;
+        background: #3ea08a;
+  font-size: 20px;
+    color: #2e917b;
+    position: relative;
+    top: 150px;
+    left: 500px;
+}
+p{
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+}
+.name{
+    font-family: 'Arizonia', cursive;
+}
